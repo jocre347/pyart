@@ -25,4 +25,4 @@ w.create_rectangle(0,185,CANVAS_WIDTH,189,fill=BLACK)
 w.create_rectangle(CANVAS_WIDTH-20,189,CANVAS_WIDTH-15,CANVAS_HEIGHT,fill=BLACK)
 
 window.mainloop()
-#this is a little Example
+#this is a little example
