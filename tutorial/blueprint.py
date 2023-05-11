@@ -10,5 +10,6 @@ w = Canvas(window,
 #here comes the code
 
 w.pack() #here you put your canvas on your window
+#here comes the code
 window.mainloop()# You need mainloop because otherwise you will only see your image for a very short time.
 # This is the main build of your python code for canvas
